@@ -74,7 +74,7 @@ export default {
     {
       "start": 0,
       "end": 260,
-      "instruments": ["violin", "string ensemble 1"]
+      "instruments": ["violin"]
     },
     {
       "start": 260,
